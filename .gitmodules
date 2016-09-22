@@ -1,0 +1,3 @@
+[submodule "aliyun-openapi-php-sdk"]
+	path = aliyun-openapi-php-sdk
+	url = git@github.com:aliyun/aliyun-openapi-php-sdk.git
